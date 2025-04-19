@@ -1,5 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Ali
- 
+====================================================================================================================================
+
+Artificial Intelligence Engineer
+--------------------------------
+
+*   ✉️  You can contact me at [maetemadi7@gmail.com](mailto:maetemadi7@gmail.com)
+*   🤝  I'm open to collaborating on Deep Learning, Machine Learning, Computer Vision & Data Science Projects.
 <!--
 **mohamd7ali/mohamd7ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💫 About Me:
+# 💫 About Me:
 <p style="text-align: justify;">
 <!-- Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern Iran. He graduated from NODET in 2015 with a Diploma GPA of 4/4 (20/20). He received his B.Sc. in Electrical & Control Engineering from Amirkabir University of Technology (Tehran Polytechnic) in 2019 with a GPA of 3.7/4. Since 2019, he has been part of ARASⒸ under the supervision of Prof. Hamid D. Taghirad and completed his M.Sc. with a GPA of 4/4. He is currently pursuing his Ph.D. in this group with a GPA of 4/4 (20/20). In parallel with his academic work, he serves as CTO at MediversAI and SmarTeeth, focusing on AI applications in medical imaging and videos, and also leads the ARAS AI, VR, and Software Group. Robotics, Artificial Intelligence, and Computer Vision are his principal research interests. -->
 <p align="center">
@@ -28,7 +34,7 @@ Here are some ideas to get you started:
 
 <!-- my-skils -->
 
-### 💻 Tech Stack:
+# 💻 Tech Stack:
 
 | Category | Tools |
 |----------|-------|
@@ -41,7 +47,7 @@ Here are some ideas to get you started:
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
                                                                                                                                                                                            
-### 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 <table align="center">
   <tr>
