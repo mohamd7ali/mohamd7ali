@@ -1,72 +1,36 @@
-# mohamd7ali
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamd7ali&label=Profile%20views&color=0e75b6&style=flat" alt="mohamd7ali" /> </p>
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Ali
- 
-<!--
-**mohamd7ali/mohamd7ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+====================================================================================================================================
 
-Here are some ideas to get you started:
+Artificial Intelligence Engineer
+--------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ✉️  You can contact me at [maetemadi7@gmail.com](mailto:maetemadi7@gmail.com)
+* 🤝  I'm open to collaborating on Deep Learning, Machine Learning, Computer Vision & Data Science Projects.
 
-# 💫 About Me:
-<p style="text-align: justify;">
-<!-- Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern Iran. He graduated from NODET in 2015 with a Diploma GPA of 4/4 (20/20). He received his B.Sc. in Electrical & Control Engineering from Amirkabir University of Technology (Tehran Polytechnic) in 2019 with a GPA of 3.7/4. Since 2019, he has been part of ARASⒸ under the supervision of Prof. Hamid D. Taghirad and completed his M.Sc. with a GPA of 4/4. He is currently pursuing his Ph.D. in this group with a GPA of 4/4 (20/20). In parallel with his academic work, he serves as CTO at MediversAI and SmarTeeth, focusing on AI applications in medical imaging and videos, and also leads the ARAS AI, VR, and Software Group. Robotics, Artificial Intelligence, and Computer Vision are his principal research interests. -->
-<p align="center">
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="mailto:maetemadi7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+### Skills
+
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
 
 
+### Socials
 
-<!-- my-skils -->
+<p align="left"> <a href="https://www.github.com/mohamd7ali" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mohammad-ali-etemadi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-# 💻 Tech Stack:
+### Badges
 
-| Category | Tools |
-|----------|-------|
-| **Languages / IDEs** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/) [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/) [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone) [![VHDL](https://img.shields.io/badge/VHDL-blue?style=flat-square&logoColor=white)](https://en.wikipedia.org/wiki/VHDL) [![Verilog](https://img.shields.io/badge/Verilog-lightblue?style=flat-square&logoColor=white)](https://en.wikipedia.org/wiki/Verilog) [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) [![Pycharm](https://img.shields.io/badge/Pycharm-3776AB?style=flat-square&logo=Pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)](https://www.anaconda.com/) |
-| **ML / DL Frameworks** | [![Jupyter Notebook Badge](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/) [![Scikit-learn Badge](https://img.shields.io/badge/Scikit--Learn-e26d00?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Keras Badge](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io/) [![NumPy Badge](https://img.shields.io/badge/NumPy-e26d00?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/) [![pandas Badge](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Seaborn Badge](https://img.shields.io/badge/Seaborn-76B900?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) |
-| **Tools & Platforms** | [![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white)](https://colab.research.google.com/) [![OpenCV Badge](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)](https://opencv.org/) [![QT Badge](https://img.shields.io/badge/QT-41CD52?style=flat-square&logo=Qt&logoColor=white)](https://www.qt.io/) [![LaTeX Badge](https://img.shields.io/badge/latex-%23008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/) |
-| **CI / CD** | [![Markdown](https://img.shields.io/badge/Markdown-2088FF?style=flat-square&logo=Markdown&logoColor=white)](https://github.com/mohamd7ali/mohamd7ali) [![GitHub](https://img.shields.io/badge/Github-2088FF?style=flat-square&logo=Github&logoColor=white)](https://github.com/mohamd7ali/mohamd7ali) [![Git](https://img.shields.io/badge/Git-2088FF?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](https://www.docker.com/) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)](https://about.gitlab.com/) |
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/mohamd7ali"><img src="https://github-readme-stats.vercel.app/api?username=mohamd7ali&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohamd7ali's GitHub stats" /></a>
 
+<a href="http://www.github.com/mohamd7ali"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamd7ali&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-                                                                                                                                                                                           
-# 📊 GitHub Stats:
+<a href="http://www.github.com/mohamd7ali"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohamd7ali&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<table align="center">
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamd7ali&theme=nord_dark" alt="mohamd7ali's Profile Details" width="700" height="150"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamd7ali&theme=nord_dark" alt="mohamd7ali's Repos per Language" width="300" height="150"></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamd7ali&theme=nord_dark" alt="mohamd7ali's Most Commit Language" width="300" height="150"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamd7ali&theme=nord_dark" alt="mohamd7ali's Stats" width="300" height="150"></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamd7ali&theme=nord_dark" alt="mohamd7ali's Productive Time" width="300" height="150"></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamd7ali&theme=radical" alt="mohamd7ali's GitHub Streak" width="600" height="150"><br>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/mohamd7ali" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamd7ali&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohamd7ali&column=10&theme=onedark" alt="mohamd7ali's Trophies" width="1500" height="200">
+<b>Top Repositories</b>
 
-> **Note:** The statistics are dynamic and represent the user's activity and proficiency on GitHub.
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
