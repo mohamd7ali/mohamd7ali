@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+## 💫 About Me:
 <p style="text-align: justify;">
 <!-- Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern Iran. He graduated from NODET in 2015 with a Diploma GPA of 4/4 (20/20). He received his B.Sc. in Electrical & Control Engineering from Amirkabir University of Technology (Tehran Polytechnic) in 2019 with a GPA of 3.7/4. Since 2019, he has been part of ARASⒸ under the supervision of Prof. Hamid D. Taghirad and completed his M.Sc. with a GPA of 4/4. He is currently pursuing his Ph.D. in this group with a GPA of 4/4 (20/20). In parallel with his academic work, he serves as CTO at MediversAI and SmarTeeth, focusing on AI applications in medical imaging and videos, and also leads the ARAS AI, VR, and Software Group. Robotics, Artificial Intelligence, and Computer Vision are his principal research interests. -->
 <p align="center">
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!-- my-skils -->
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 | Category | Tools |
 |----------|-------|
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
                                                                                                                                                                                            
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <table align="center">
   <tr>
