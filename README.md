@@ -1,4 +1,4 @@
-Hi 👋 My name is Mohammad Ali
+Hi 👋 I'm Mohammad Ali Etemadi Naeen
 ====================================================================================================================================
 
 Artificial Intelligence Engineer
