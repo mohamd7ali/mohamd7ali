@@ -49,35 +49,68 @@ Here are some ideas to get you started:
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
                                                                                                                                                                                            
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <table align="center">
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamd7ali&theme=nord_dark" alt="mohamd7ali's Profile Details" width="700" height="150"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamd7ali&theme=nord_dark" alt="mohamd7ali's Repos per Language" width="300" height="150"></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamd7ali&theme=nord_dark" alt="mohamd7ali's Most Commit Language" width="300" height="150"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamd7ali&theme=nord_dark" alt="mohamd7ali's Stats" width="300" height="150"></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamd7ali&theme=nord_dark" alt="mohamd7ali's Productive Time" width="300" height="150"></td>
-  </tr>
+  <!-- Profile Summary -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamd7ali&theme=radical" alt="mohamd7ali's GitHub Streak" width="600" height="150"><br>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamd7ali&theme=nord_dark" alt="Profile Details" width="700" height="150">
+    </td>
+  </tr>
+
+  <!-- Languages by Repo and Commit -->
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamd7ali&theme=nord_dark" alt="Repos per Language" width="300" height="150">
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamd7ali&theme=nord_dark" alt="Most Commit Language" width="300" height="150">
+    </td>
+  </tr>
+
+  <!-- GitHub Stats and Productive Time -->
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamd7ali&theme=nord_dark" alt="Stats" width="300" height="150">
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamd7ali&theme=nord_dark" alt="Productive Time" width="300" height="150">
+    </td>
+  </tr>
+
+  <!-- GitHub Streak -->
+  <!-- <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamd7ali&theme=radical" alt="GitHub Streak" width="600" height="150">
+    </td>
+  </tr> -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamd7ali&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak">
+    </td>
+  </tr>
+
+  <!-- GitHub Readme Stats -->
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mohamd7ali">
+        <img src="https://github-readme-stats.vercel.app/api?username=mohamd7ali&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mohamd7ali">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamd7ali&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages">
+      </a>
+    </td>
+  </tr>
+
+  <!-- Trophies -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=mohamd7ali&column=6&theme=onedark" alt="Trophies" width="100%">
     </td>
   </tr>
 </table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohamd7ali&column=10&theme=onedark" alt="mohamd7ali's Trophies" width="1500" height="200">
-
-<a href="http://www.github.com/mohamd7ali"><img src="https://github-readme-stats.vercel.app/api?username=mohamd7ali&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohamd7ali's GitHub stats" /></a>
-
-<a href="http://www.github.com/mohamd7ali"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamd7ali&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/mohamd7ali" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamd7ali&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 > **Note:** The statistics are dynamic and represent the user's activity and proficiency on GitHub.
