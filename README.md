@@ -98,7 +98,7 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
     </td>
     <td align="center">
       <a href="https://github.com/mohamd7ali">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamd7ali&theme=radical&v=1" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamd7ali&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages">
       </a>
     </td>
   </tr>
