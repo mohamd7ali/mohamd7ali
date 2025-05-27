@@ -106,7 +106,7 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
   <!-- Trophies -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=mohamd7ali&column=6&theme=onedark" alt="Trophies" width="100%">
+      <img src="https://github-profile-trophy.vercel.app/?username=mohamd7ali&column=6&theme=onedark&v=1" alt="Trophies" width="100%">
     </td>
   </tr>
 </table>
