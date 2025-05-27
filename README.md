@@ -53,27 +53,27 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
   <!-- Profile Summary -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamd7ali&theme=nord_dark" alt="Profile Details" width="700" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamd7ali&theme=nord_dark&v=1" alt="Profile Details" width="700" height="150">
     </td>
   </tr>
 
   <!-- Languages by Repo and Commit -->
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamd7ali&theme=nord_dark" alt="Repos per Language" width="300" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamd7ali&theme=nord_dark&v=1" alt="Repos per Language" width="300" height="150">
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamd7ali&theme=nord_dark" alt="Most Commit Language" width="300" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamd7ali&theme=nord_dark&v=1" alt="Most Commit Language" width="300" height="150">
     </td>
   </tr>
 
   <!-- GitHub Stats and Productive Time -->
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamd7ali&theme=nord_dark" alt="Stats" width="300" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamd7ali&theme=nord_dark&v=1" alt="Stats" width="300" height="150">
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamd7ali&theme=nord_dark" alt="Productive Time" width="300" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamd7ali&theme=nord_dark&v=1" alt="Productive Time" width="300" height="150">
     </td>
   </tr>
 
