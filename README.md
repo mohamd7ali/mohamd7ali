@@ -85,7 +85,7 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
   </tr> -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamd7ali&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamd7ali&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&v=1" alt="GitHub Streak">
     </td>
   </tr>
 
