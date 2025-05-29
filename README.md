@@ -53,27 +53,27 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
   <!-- Profile Summary -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamd7ali&theme=nord_dark&v=2" alt="Profile Details" width="700" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamd7ali&theme=nord_dark&v=3" alt="Profile Details" width="700" height="150">
     </td>
   </tr>
 
   <!-- Languages by Repo and Commit -->
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamd7ali&theme=nord_dark&v=2" alt="Repos per Language" width="300" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamd7ali&theme=nord_dark&v=3" alt="Repos per Language" width="300" height="150">
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamd7ali&theme=nord_dark&v=2" alt="Most Commit Language" width="300" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohamd7ali&theme=nord_dark&v=3" alt="Most Commit Language" width="300" height="150">
     </td>
   </tr>
 
   <!-- GitHub Stats and Productive Time -->
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamd7ali&theme=nord_dark&v=2" alt="Stats" width="300" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamd7ali&theme=nord_dark&v=3" alt="Stats" width="300" height="150">
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamd7ali&theme=nord_dark&v=2" alt="Productive Time" width="300" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamd7ali&theme=nord_dark&v=3" alt="Productive Time" width="300" height="150">
     </td>
   </tr>
 
@@ -85,7 +85,7 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
   </tr> -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamd7ali&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&v=2" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamd7ali&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&v=3" alt="GitHub Streak">
     </td>
   </tr>
 
@@ -93,12 +93,12 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
   <tr>
     <td align="center">
       <a href="https://github.com/mohamd7ali">
-        <img src="https://github-readme-stats.vercel.app/api?username=mohamd7ali&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=2" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=mohamd7ali&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&v=3" alt="GitHub Stats">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/mohamd7ali">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamd7ali&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&v=2" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamd7ali&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&v=3" alt="Top Languages">
       </a>
     </td>
   </tr>
@@ -106,7 +106,7 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
   <!-- Trophies -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=mohamd7ali&column=6&theme=onedark&v=2" alt="Trophies" width="100%">
+      <img src="https://github-profile-trophy.vercel.app/?username=mohamd7ali&column=6&theme=onedark&v=3" alt="Trophies" width="100%">
     </td>
   </tr>
 </table>
